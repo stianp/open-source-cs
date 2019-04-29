@@ -50,13 +50,13 @@ There are two ways to demonstrate knowledge: the stamp, or the portfolio.
 
 You will need one.
 
-## The Stamp
+### 1. The Stamp
 
 The stamp is a certificate given to a recipient by an individual (or institution) to confirm that you have some kind of knowledge. Traditionally, this refers to a degree of some sort, but could also include certificates offered by course providers.
 
 Stamps are useful for employers when quick filtering for potential hires on websites or scanning resumes, but the quality of the stamp varies greatly. Some stamps are worth more than others.
 
-## The Portfolio
+### 2. The Portfolio
 
 The portfolio is what you create. It includes the apps and websites you build, it includes the essays and articles you write, and basically everything that shows that you know what you're doing. There aren't many things more persuasive than a solid portfolio.
 
