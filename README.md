@@ -1,6 +1,86 @@
-# The Open Source Computer Science Degree
+# The Open Source Computer Science Degree Program
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+All the courses listed are free, MOOCs, or open source. What they all have in common is that the information itself is free.
+
+## Who Is This For?
+
+Some, if not all, of these descriptions fit you.
+
+* You value education.
+* You're unemployed, or you have a shit job.
+* You want a better job.
+* You can't afford college.
+* You think college is overpriced.
+* You think there's something wrong with traditional education system.
+* You think college is an inefficient use of time.
+* You are willing to study and actually learn things.
+
+This is not for...
+
+* People who don't want to actually learn the subjects.
+* People who want to learn for the mental masturbation.
+* People who don't want to challenge themselves.
+* People don't want to grow.
+* People who aren't willing to put in the work.
+
+## The Goals Of This Program
+
+There are two main goals to this program.
+
+* Learn the skills necessary to get a new job as soon as possible.
+* Continue learning new skills after landing the first job so you can go on to bigger and better things down the line.
+
+This means that the syllabus is front-loaded with a practical specialization for a job skill that makes more than "minimum wage", then moves on to more advanced and technical things after that.
+
+The first "specialization" usually does not require a lot of technical understanding, but does provide a solid stepping stone to something where technical understanding does play a part.
+
+## What's Required Of You
+
+Going through this syllabus requires dedication.
+
+This is not the easy track given the lack of teaching assistants and freely available mentors you would have in college. But I believe this approach can be just as good as a college degree, especially in certain fields.
+
+It is definitely more cost effective, and you'll learn some of the same things.
+
+All these courses have the option of buying certificates. If you can afford it, you're not gonna lose anything by buying them.
+
+But if you're not looking to spend money on certificates, you have to prove that you know what you're doing.
+
+There are two ways to demonstrate knowledge: the stamp, or the portfolio.
+
+You will need one.
+
+## The Stamp
+
+The stamp is a certificate given to a recipient by an individual (or institution) to confirm that you have some kind of knowledge. Traditionally, this refers to a degree of some sort, but could also include certificates offered by course providers.
+
+Stamps are useful for employers when quick filtering for potential hires on websites or scanning resumes, but the quality of the stamp varies greatly. Some stamps are worth more than others.
+
+## The Portfolio
+
+The portfolio is what you create. It includes the apps and websites you build, it includes the essays and articles you write, and basically everything that shows that you know what you're doing. There aren't many things more persuasive than a solid portfolio.
+
+# This Is Not A DIY Approach
+
+If you go through parts or all of this syllabus, you will not be able to say that you are self-taught.
+
+I say that because everything in this syllabus is built on the knowledge of other people. The courses were created by other people who again built their knowledge on top of what other people taught them.
+
+While this certainly took quite an effort to put together, this is simply a compilation of courses designed to build a certain (highly competent) skillset. As such, you'll be learning from many great teachers.
+
+We stand on the shoulders of giants.
+
+## You Should Put Some Thought And Design Into The Courses You Choose
+
+
+# Syllabus
+
+
+
+
+# Marketing
+[Marketing Management](https://www.edx.org/course/marketing-management-0) |
+
 
 ## Computer Science Basics
 
