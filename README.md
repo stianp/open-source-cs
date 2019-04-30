@@ -1,14 +1,17 @@
-# The Open Source Computer Science Degree Program
+# The Open Source Computer Science Degree Program (With Addition, Directions)
 
 All the courses listed are free, MOOCs, or open source. What they all have in common is that the information itself is free.
 
+Scroll down to the bottom for the complete list of courses.
+
 ## Who Is This For?
 
-Some, if not all, of these descriptions fit you.
+This is for you if some of these descriptions fit you.
 
 * You value education.
-* You're unemployed, or you have a shit job.
+* You're unemployed, you have a shit job.
 * You want a better job.
+* You want to build something.
 * You can't afford college.
 * You think college is overpriced.
 * You think there's something wrong with traditional education system.
@@ -28,15 +31,21 @@ This is not for...
 There are two main goals to this program.
 
 * Learn the skills necessary to get a new job as soon as possible.
-* Continue learning new skills after landing the first job so you can go on to bigger and better things down the line.
+* Continue learning new skills after landing the first job so you can move on to bigger and better things down the line.
 
-This means that the syllabus is front-loaded with a practical specialization for a job skill that makes more than "minimum wage", then moves on to more advanced and technical things after that.
+We want to make the smallest, biggest step up the ladder to an entry-level job that pays more than pushing carts at the airport or stocking shelves at a supermarket.
 
-The first "specialization" usually does not require a lot of technical understanding, but does provide a solid stepping stone to something where technical understanding does play a part.
+This means that the curriculum is front-loaded with a practical specialization for a job skill that makes more than "minimum wage", then moves on to more advanced and technical things after that.
+
+You have a great degree of choice when it comes to your initial specialization. I'm not going to point a finger and say you have to choose one thing over the next.
+
+However, you do need to pick something where writing code will help you out later. Don't spend your time learning carpentry when the end goal is to work with computers. You need a clear idea of the path from the short-term job to the long-term skills and career.
+
+The first "specialization" usually does not require a lot of technical understanding, but should provide a solid stepping stone to something where technical understanding does play a part.
 
 ## What's Required Of You
 
-Going through this syllabus requires dedication.
+Going through this curriculum requires dedication.
 
 This is not the easy track given the lack of teaching assistants and freely available mentors you would have in college. But I believe this approach can be just as good as a college degree, especially in certain fields.
 
@@ -62,9 +71,9 @@ The portfolio is what you create. It includes the apps and websites you build, i
 
 # This Is Not A DIY Approach
 
-If you go through parts or all of this syllabus, you will not be able to say that you are self-taught.
+If you go through parts or all of this curriculum, you will not be able to say that you are self-taught.
 
-I say that because everything in this syllabus is built on the knowledge of other people. The courses were created by other people who again built their knowledge on top of what other people taught them.
+I say that because everything in this curriculum is built on the knowledge of other people. The courses were created by other people who again built their knowledge on top of what other people taught them.
 
 While this certainly took quite an effort to put together, this is simply a compilation of courses designed to build a certain (highly competent) skillset. As such, you'll be learning from many great teachers.
 
@@ -72,17 +81,69 @@ We stand on the shoulders of giants.
 
 ## You Should Put Some Thought And Design Into The Courses You Choose
 
+The main goal of this is to get you a job of some sort.
 
-# Syllabus
+By going through these courses, you'll get a good overview of the field itself.
 
+From this foundation, you should go into fields you're interested in. If find out that you're into data science, that's where you should go. If you find out you're into machine learning, that's where you should go.
 
+Here, we start getting into more specialized knowledge. I can't help with what to do when you're getting into year 4 and 5 of your journey, because I'm not there. But have an idea of what you want to do three or four years into the future, and this will help you get there.
 
+# Overview Of Curriculum
 
-# Marketing
-[Marketing Management](https://www.edx.org/course/marketing-management-0) |
+## 1. Broad Overview
 
+The general overview is as follows...
+
+* Introduction to computer science
+* Learn a skill that can get you a better job fast
+* Learn a programming language
+* Learn how to learn programming languages
+* Learn how computers work under the hood
+* Learn how to work with databases
+* Learn computer science theory
+* Learn about algorithms
+* Learn about software engineering in practice
+* Learn about machine learning
+* Learn about cryptography
+* Learn how to work with a command line
+
+## 2. Computer Science Foundation And Job Specialization
+
+Instead of breaking this curriculum into semesters and what not with a common track taken by everyone as would be done in a traditional institution, we're gonna bust it into different modules. You're taking these courses on your own, so you're free to choose whatever the hell you want.
+
+I've already mentioned that we want to get the foundations of computer science down plus a specialization of some kind that's gonna make us some money.
+
+You should be doing two courses to begin with.
+
+* Introduction to computer science
+* Specialization
+
+You should have these courses done within three months. If you enjoy computer science, you'll want to continue. If you don't enjoy it, you can just drop this entire project.
+
+If you work on this for three-four hours per day, you'll be good to go. If you can only do one because of workload, you should stick to the computer science course.
+
+## 3. Learning A Language
+
+Once you have the basics down, start learning a programming language. Java is the better choice, simply because it's the better MOOC. If you can find another course that's open source, you're welcome to pick that one.
+
+Once you've learned one language, you should go into the meta-learning of programming languages. Essentially, learn how to learn.
+
+## 4. Math
+
+I used to hate math. I had no skin in the game.
+
+Once I started getting interested in computers and computer science, I realized how damn important math is.
+
+Math is essentially logic, and computers are built on logic so it's pretty important to understand math.
+
+That's why there's a math section in here.
+
+# Classes
 
 ## Computer Science Basics
+
+* To learn the fundamentals of computer science
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -90,6 +151,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 ## Programming
+
+* To learn a programming language
+* To learn how to learn programming languages
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -103,7 +167,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
 [Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
 
-## Math
+## Math And Logic
+
+* To understand boolean logic - "how computers think"
+* To learn how to reason and solve problems symbolically
+* To learn how to think probabilistically
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -111,11 +179,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | pre-calculus
-[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | MITx | 18 weeks | 12 hours/week | self-paced | none
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Stanford | 8 weeks | 5-7 hours/week | self-paced | none
-
+[Language, Proof, And Logic](https://lagunita.stanford.edu/courses/Philosophy/LPL-SP/SelfPaced/about) | Stanford | 12 weeks | 5 hours/week | self-paced | none
+[Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) | UC San Diego | 3 months | 12 hours/week | self-paced | none
 
 ## Systems
+
+* To understand what goes on under the hood of computers
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -132,14 +203,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
-## Logic
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Logic and Computational Thinking](https://www.edx.org/course/logic-and-computational-thinking-3) | Microsoft | 4 weeks | 2-3 hours/week | self-paced | none
-
-
 
 ## Applications
+
+* Learn practical computer science skills
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -150,7 +217,21 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Unix
 
+* Learn how to work in a command line environment
+
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
+
+## Suggested Specializations
+
+* Build skills that can get you a job immediately, but also ties into computer science 
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Marketing Management](https://www.edx.org/course/marketing-management-0) | Maryland | 7 weeks | 8-10 hours/week | self-paced | none
+[Search Engine Optimization](https://www.coursera.org/specializations/seo) | UC San Diego | 8 weeks | 12 hours/week | self-paced | none
+[Graphic Design](https://www.coursera.org/specializations/graphic-design) | CalArts | 3 months | 6 hours/week | self-paced | none
+[Digital Marketing](https://www.coursera.org/specializations/digital-marketing) | UIllinois | 4 months | 6 hours/week | self-paced | none
+[Data Analysis](https://www.coursera.org/specializations/pwc-analytics) | PricewaterhouseCooper | 3 months | 6 hours/week | self-paced | none
