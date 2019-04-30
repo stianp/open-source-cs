@@ -4,6 +4,8 @@ All the courses listed are free, MOOCs, or open source. What they all have in co
 
 Scroll down to the bottom for the complete list of courses.
 
+This is forked from ForrestKnight's open source computer science degree program, tailored with my personal biases.
+
 ## Who Is This For?
 
 This is for you if some of these descriptions fit you.
