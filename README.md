@@ -206,7 +206,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Applications
 
-* Learn practical computer science skills
+* Applied computer science, software engineering, and so forth.
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
